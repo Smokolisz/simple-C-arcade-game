@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1513697616 source:c:\users\adam\desktop\programing\c++\obiektowe\walka obj\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<time.h>
+	<windows.h>
+	"Bohater.h"
+	"przeciwnik.h"
+
+1513694510 c:\users\adam\desktop\programing\c++\obiektowe\walka obj\bohater.h
+	<iostream>
+
+1513694549 source:c:\users\adam\desktop\programing\c++\obiektowe\walka obj\bohater.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"bohater.h"
+	"przeciwnik.h"
+
+1513694273 source:c:\users\adam\desktop\programing\c++\obiektowe\walka obj\przeciwnik.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"bohater.h"
+	"przeciwnik.h"
+
+1513694203 c:\users\adam\desktop\programing\c++\obiektowe\walka obj\przeciwnik.h
+	<iostream>
+
